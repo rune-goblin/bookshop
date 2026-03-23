@@ -1,6 +1,6 @@
 # Bookshop
 
-![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/bookshop/total)
+![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/bookshop/total?include_prereleases&filter=*.zip)
 
 A cozy multi-floor bookshop for Foundry VTT. Includes pre-lit scenes for each floor along with journal entries to bring the location to life in your campaign.
 
